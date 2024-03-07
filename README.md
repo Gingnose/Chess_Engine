@@ -9,5 +9,7 @@ stockfish 16 runs on NNUE architecture.
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/d480e0ff-ff65-4660-9c8c-39a1c8e13148)
 
 
+I would like to eventually rewrite the codes in C++ for exploration efficiency.
+
 Stockfish 16 is opensource:
 GitHub: https://github.com/official-stockfish/Stockfish
