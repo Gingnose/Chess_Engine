@@ -6,7 +6,8 @@ by NN ideally by RL (However, for the computational limitation, I don't know how
 Currently the strongest chess engine is stockfish 16 which estimated to be around 3800? elo.
 stockfish 16 runs on NNUE architecture.
 
-![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/b6a5fd72-1937-4605-9864-4880b035812b)
+![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/d480e0ff-ff65-4660-9c8c-39a1c8e13148)
+
 
 
 I found one source that place other engine higher than stockfish tho
