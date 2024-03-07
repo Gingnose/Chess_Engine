@@ -9,10 +9,5 @@ stockfish 16 runs on NNUE architecture.
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/d480e0ff-ff65-4660-9c8c-39a1c8e13148)
 
 
-
-I found one source that place other engine higher than stockfish tho
-
-![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/992fd3ce-edd0-495e-af9a-6ea9a809e935)
-
 Stockfish 16 is opensource:
 GitHub: https://github.com/official-stockfish/Stockfish
