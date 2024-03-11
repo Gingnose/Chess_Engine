@@ -5,14 +5,14 @@ by NN ideally by RL (However, for the computational limitation, I don't know how
 
 For piece evaluation:
 I adopted a Fischer evaluation score for now
-![スクリーンショット 2024-03-07 15 17 30](https://github.com/Gingnose/Chess_Engine/assets/136443889/8d3706a6-4dac-4e11-be07-914aa7f05a49)
-![スクリーンショット 2024-03-07 15 16 23](https://github.com/Gingnose/Chess_Engine/assets/136443889/a25cd029-5a55-499e-88c9-2380209f91eb)
+![スクリーンショット 2024-03-07 15 17 30](https://github.com/Gingnose/Chess_Engine/assets/136443889/deb37c64-3bc4-4ce0-aef1-eb5b6bd607c9)
+![スクリーンショット 2024-03-07 15 16 23](https://github.com/Gingnose/Chess_Engine/assets/136443889/088c50b6-4804-4567-83e0-a32cdb5dc8d3)
+
 
 Currently the strongest chess engine is stockfish 16 which estimated to be around 3800? elo.
 stockfish 16 runs on NNUE architecture.
 
-![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/d480e0ff-ff65-4660-9c8c-39a1c8e13148)
-
+![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/cbc70ab9-c7ed-42c6-bc14-109c18865934)
 
 I would like to eventually rewrite the codes in C++ for exploration efficiency.
 
