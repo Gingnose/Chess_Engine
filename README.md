@@ -24,19 +24,22 @@ Knight heatmap:
 
 As you can see, knights love to be in the middle of the board. [1, 2] square has the highest score (which is a c7 square that forks the king and rook.
 
+Bishop heatmap:
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/726d6fb5-bc22-486f-8e02-f2ff1a209bd6)
 
 As you can see bishop suffers less from being passive in the first rank because it is a long range piece.
 
-
+Rook heatmap:
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/4ff72b62-296e-44c4-b835-1cac4b543291)
 
 As people say, rooks love 7th rank!
 
+Queen heatmap:
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/ba1a6f6c-6e88-4beb-8881-f764c3b754f5)
 
 Only the opponents' queen's square is dark... it is probably not a good idea to exchange queens in general
 
+King heatmap:
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/7a4d87c9-0467-4f80-989b-153cc7cb6f7d)
 
 king wants to be castled and tucked in the corner. However, king's square value can change lagely on the stage of the game and need adjustments accordingly.
