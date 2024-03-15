@@ -22,7 +22,7 @@ Note that 1st and 8th rank are set to 0 since pawn doesn't either unable to exis
 Knight heatmap:
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/49716c25-5574-48e1-b5d6-198447c37a2a)
 
-As you can see, knights love to be in the middle of the board. [1, 2] square has the highest score (which is a b7 square that forks the king and rook.
+As you can see, knights love to be in the middle of the board. [1, 2] square has the highest score (which is a c7 square that forks the king and rook.
 
 ![image](https://github.com/Gingnose/Chess_Engine/assets/136443889/726d6fb5-bc22-486f-8e02-f2ff1a209bd6)
 
